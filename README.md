@@ -1,6 +1,6 @@
 # Description
 
-CPPify is a header-only C++ API for interacting with the Spotify Web API. This header serves as a starting point for your needs. I originally created it for a different project, but I believe it could be useful to others on its own.
+CPPify is a header-only C++ API for interacting with the Spotify Web API. This header serves as a starting point for your needs. I originally created it for a [different project](https://github.com/KielanT/PicoMusicController), but I believe it could be useful to others on its own.
 
 I have included a class called SpotifyCalls, which provides examples of how to use CPPify to interact with the Spotify Web API.
 
